@@ -5,8 +5,8 @@ build:
 transactions:
     message: "Welcome to MyBank transactions related REST APIs - UAT"
     contactDetails:
-        name: "Laxman Jadhav"
-        email: "laxman.jadhav@msedcl.in"
+        name: "Raj Bhoyar"
+        email: "rajbhoyar11@gmail.com"
     onCallSupport:
         - 123123123
         - 4443332221
