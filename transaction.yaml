@@ -1,0 +1,12 @@
+# Configuration
+build:
+    version: "1.0"
+
+transactions:
+    message: "Welcome to MyBank transactions related REST APIs"
+    contactDetails:
+        name: "Rajendra Bhoyar"
+        email: "Rajbhoyar73@gmail.com"
+    onCallSupport:
+        - 7875029466
+        - 1234567890
